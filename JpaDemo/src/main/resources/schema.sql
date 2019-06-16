@@ -1,0 +1,1 @@
+create table employee (id number(10,0) not null, dob timestamp, is_emp number(1,0), name varchar2(255 char), salary double precision, primary key (id));
